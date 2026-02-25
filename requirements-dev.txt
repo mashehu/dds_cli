@@ -7,4 +7,4 @@ pylint==2.17.3
 sphinx-copybutton==0.5.1
 sphinxcontrib-svg2pdfconverter==1.2.2
 standard-imghdr==3.13.0 # removed in python 3.13, needed for sphinx (until more stable fix)
-legacy-cgi==2.6.1 # removed in python 3.13, needed for sphinx (until more stable fix)
+legacy-cgi==2.6.4 # removed in python 3.13, needed for sphinx (until more stable fix)
