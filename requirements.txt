@@ -5,7 +5,7 @@ click-pathlib==2020.3.13.0
 cryptography==46.0.5
 immutabledict==2.2.1
 jwcrypto==1.5.6
-prettytable==3.7.0
+prettytable==3.17.0
 prompt-toolkit==3.0.40
 PyNaCl==1.6.2
 pytz==2022.2.1
